@@ -1,0 +1,19 @@
+.contenedor_boton{
+    width: 1px;
+    height: AUTO;
+    margin-right: 50PX;
+    margin: AUTO;
+    
+       
+}
+#label {
+    text-align: center; 
+    line-height: 30px; 
+    color: white;
+}
+.contenedor_principal{
+    width: auto;
+    height: 2000px;
+    border: 1px solid red;
+    background-color: rgba(26, 179, 26, 0.781);
+}
